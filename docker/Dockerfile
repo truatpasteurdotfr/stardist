@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.11.1-gpu-jupyter
+FROM tensorflow/tensorflow:2.16.1-gpu-jupyter
 
 LABEL maintainer="ko.sugawara@ens-lyon.fr"
 
